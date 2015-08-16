@@ -1,0 +1,9 @@
+{
+	"name" : "chatrooms",
+	"version" : "0.0.1",
+	"description" : "Chatroom from node.js in action",
+	"dependencies" : {
+	    "socket.io": "~0.9.6",
+	    "mime": "~1.2.7"
+	}
+}

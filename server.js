@@ -57,3 +57,6 @@ server.listen(3000, function () {
 	console.log("Server listening");
 })
 
+
+var chatServer = require('./lib/chat_server');
+chatServer.listen(server);
